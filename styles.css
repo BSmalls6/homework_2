@@ -1,0 +1,14 @@
+body {
+    background: url("beanstalk.png");
+}
+.container {
+    padding: 10px;
+}
+#name {
+    background-color: #4aaaa5;
+}
+
+@media (max-width: 978px) {
+      padding:0;
+      margin:0;
+    }
