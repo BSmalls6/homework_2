@@ -1,5 +1,7 @@
 body {
     background: url("beanstalk.png");
+    color: #777777;
+    margin: 0 auto;
 }
 .container {
     padding: 10px;
